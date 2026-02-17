@@ -19,6 +19,7 @@ Durante todo el proceso se han documentado las decisiones tomadas y se han añad
 
 ## Estructura del repositorio
 
+```text
 bda-modulo-3-evaluacion-final-nieves-sanchez/
 │
 ├── data/
@@ -37,6 +38,7 @@ bda-modulo-3-evaluacion-final-nieves-sanchez/
 │ └── 04_analisis.ipynb
 │
 └── README.md
+```
 
 ---
 
