@@ -2,7 +2,7 @@
 
 ## Descripción del proyecto
 
-Este proyecto analiza la actividad de vuelos y la información del programa de fidelización de clientes. Se ha desarrollado como parte de la evaluación final del Módulo 3 del Bootcamp de Data Analytics $ IA de Adalab.
+Este proyecto analiza la actividad de vuelos y la información del programa de fidelización de clientes. Se ha desarrollado como parte de la evaluación final del Módulo 3 del Bootcamp de Data Analytics & IA de Adalab.
 
 El objetivo principal es aplicar un flujo completo de trabajo en análisis de datos, que incluye:
 
